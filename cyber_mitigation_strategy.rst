@@ -1,0 +1,32 @@
+Mitigation Strategy to mitigate targeted Cyber Intrusions
+ 
+- Application whitelisting
+- Patch applications and operating system vulnerabilities
+- Restrict administrative privileges
+- User application configuration hardening
+- Automated dynamic analysis
+- Operating system generic exploit mitigation
+- Network-based \ Host-based Intrusion Detection/Prevention System
+- Disable local administrator accounts
+- Network segmentation and segregation
+- Multi-factor authentication
+- Software-based application firewall, blocking incoming\outgoing network traffic
+- Non-persistent virtualised sandboxed trusted operating environment
+- Centralised and time-synchronised logging of successful and failed computer events and allowed\blocked network activity
+- Email\Web content filtering
+- Web domain whitelisting for all domains
+- Block spoofed emails
+- Workstation and server configuration management
+- Antivirus software using heuristics and automated Internet-based reputation ratings
+- Deny direct Internet access from workstations
+- Server application configuration hardening
+- Enforce a strong passphrase policy
+- Removable and portable media control
+- Restrict access to Server Message Block (SMB) and NetBIOS
+- User education
+- Workstation inspection of Microsoft Office files
+- Signature-based antivirus software
+- TLS encryption between email servers
+- Block attempts to access websites by their IP address
+- Gateway blacklisting
+- Capture network traffic
