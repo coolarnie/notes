@@ -1,0 +1,43 @@
+Security Incident Response Plan
+
+The fight to protect organisation’s data isn’t for the faint of heart.
+When it comes to preventing the worst-case scenario from happening, you need all the help you can get, despite your super-hero status.
+
+According to SANS, there are 6 key phases of an incident response plan.
+1. Preparation - Preparing users and IT to handle potential incidents in case they happen
+2. Identification - Figuring out what we mean by a “security incident” (which events can we ignore vs. which we must act on right now?)
+3. Containment - Isolating affected systems to prevent further damage
+4. Eradication - Finding and eliminating the root cause (removing affected systems from production)
+5. Recovery - Permitting affected systems back into the production environment (and watching them closely)
+6. Lessons Learned - Writing everything down and reviewing and analyzing with all team members so you can improve future incident response efforts
+
+Here are three examples from the front lines of incident response that can help you at each phase as you build out your plan.
+
+On Defining Success Incident Response Success
+
+There are many levels of success in defensive work… the common wisdom is that the attacker only has to be right once, but the defender has to be right every time, but that’s not always true.
+
+Attacks are not all-or-nothing affairs - they happen over time, with multiple stages before final success.
+
+To remain undetected against an attentive defender, it is the attacker who must make every move correctly; if an astute defender detects them even once, they have the possibility to locate and stop the whole attack.
+
+You aren't going to immediately detect everything that happens during an attack - but as long as you detect (and correctly identify) enough of an attack to stop it in its tracks, that’s success.
+
+
+Don’t Panic. Stay Focused.
+
+Execution is key - the range of ways to attack a target can seem limitless - expecting to be an expert on all of them is pointlessly unrealistic.
+
+The most important part of incident response is to handle every situation in a way that limits damage, and reduces recovery time and costs.
+
+At the end of the day, that’s how you’ll be measured on a job well done… not that you’ve covered every angle of every potential vulnerability.
+
+
+Start with Simple Steps. Attackers are Lazy.
+
+Attackers have technical and economic imperatives to use the minimum amount of effort and resources to breach their targets - the more you remove the low-hanging fruit on your network, the more you raise the actual level of work an attacker has to expend to successfully infiltrate it.
+
+
+Extracted from AlienVault
+This incident response (IR) guide contains insider secrets. Pass it on
+https://www.alienvault.com/resource-center/ebook/insider-guide-to-incident-response
